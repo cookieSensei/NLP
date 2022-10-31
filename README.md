@@ -1,1 +1,1 @@
-I'm a python teacher. I'll share the natural language processing tutorials here. In this notebook, I've explained, how to scrap data from ecommerce websites and store the resulting data as a dataframe in python
+I'll share the natural language processing tutorials here. 
